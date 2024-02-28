@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         View.OnClickListener whoAmIOclBtn = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textView.setText("Мой номер по списку 22 или 21 xD (Климин АВ)");
+                textView.setText("Мой номер по списку 13 (Климин АВ)");
             }
         };
         whoAmIBtn.setOnClickListener(whoAmIOclBtn);
